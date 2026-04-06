@@ -16,7 +16,7 @@ This implementation focuses on LSCM (Least Squares Conformal Maps) and mesh proc
 - UV visualization and analysis
 
 ## Project Structure
-
+```
 uv-unwrapping/
 │
 ├── src/        # Core C++ implementation
@@ -24,7 +24,7 @@ uv-unwrapping/
 ├── blender/    # Blender add-on (WIP)
 ├── examples/   # Sample meshes (self-provided)
 ├── results/    # Outputs
-
+```
 ## Build
 
 mkdir build
