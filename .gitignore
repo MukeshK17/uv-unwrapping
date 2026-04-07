@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# C++
+build/
+*.o
+*.out
+*.so
+*.dll
+*.dylib
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Outputs
+results/
+
+# OS
+.DS_Store
+Thumbs.db
