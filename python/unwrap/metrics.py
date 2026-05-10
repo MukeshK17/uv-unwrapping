@@ -1,5 +1,6 @@
+
 import numpy as np
-import math
+
 
 def compute_stretch(mesh, uvs):
     """
